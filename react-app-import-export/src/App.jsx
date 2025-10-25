@@ -4,7 +4,8 @@ export default class App extends Component{
         return(
             <div>
             <h1>Hlo Everybody</h1>
-            <h2>Had Your Coffee</h2>
+            <h2>Had Your Breakfast</h2>
+            <h3 style={{color:"blue"}}>Yes, done</h3>
             </div>
         )
     }
